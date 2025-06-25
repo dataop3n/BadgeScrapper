@@ -1,6 +1,6 @@
 # pip install requests
 # pip install colorama
 
-![Menu](./img/menu.png)
+![Menu](/img/menu.png)
 
-![Discord](.img/discord.png)
+![Discord](/img/discord.png)
